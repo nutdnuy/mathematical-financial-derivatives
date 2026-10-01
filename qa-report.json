@@ -1,0 +1,218 @@
+{
+  "status": "passed",
+  "states": [
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 1440,
+      "file": "index.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 1440,
+      "file": "index.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 1440,
+      "file": "topics.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 1440,
+      "file": "topics.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 1440,
+      "file": "library.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 1440,
+      "file": "library.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 1440,
+        "scroll": 1440
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 768,
+      "file": "index.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 768,
+      "file": "index.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 768,
+      "file": "topics.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 768,
+      "file": "topics.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 768,
+      "file": "library.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 768,
+      "file": "library.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 390,
+      "file": "index.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 390,
+      "file": "index.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 390,
+      "file": "topics.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 390,
+      "file": "topics.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 390,
+      "file": "library.html",
+      "theme": "light",
+      "violations": [],
+      "overflow": {
+        "width": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "slug": "mathematical-financial-derivatives",
+      "width": 390,
+      "file": "library.html",
+      "theme": "dark",
+      "violations": [],
+      "overflow": {
+        "width": 390,
+        "scroll": 390
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "slug": "mathematical-financial-derivatives",
+      "checks": [
+        "keyboard topic expansion",
+        "Thai search",
+        "empty results",
+        "reset search",
+        "theme persistence",
+        "visible keyboard focus"
+      ]
+    }
+  ],
+  "errors": [],
+  "failedResponses": []
+}
